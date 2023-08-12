@@ -17,5 +17,6 @@ public class Main {
         System.out.println(genreRepository.getAll());
         System.out.println(actorRepository.getAll());
         System.out.println(movieRepository.findByTitle(""));
+        System.out.println("prova1 per GIT");
     }
 }
